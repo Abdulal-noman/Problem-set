@@ -96,15 +96,15 @@
 //     }
 // };
 // console.log(student.physics.subject)
-const student = {
-    name: "Hamim Sakep",
-    id: 5421,
-    physics: {
-        subject: "HSC Physics",
-        author: "Shahjahan Tapan",
-        marks: 30
-    }
-};
+// const student = {
+//     name: "Hamim Sakep",
+//     id: 5421,
+//     physics: {
+//         subject: "HSC Physics",
+//         author: "Shahjahan Tapan",
+//         marks: 30
+//     }
+// };
 // count the number of properties
 // let count = 0;
 // for (let key in student) {
